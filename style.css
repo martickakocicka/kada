@@ -1,0 +1,24 @@
+body {
+  background-color: #e0e0e0;
+
+  padding: 0;
+}
+
+.hlavicka {
+  background-color: #5a5a5e;
+  background-image: url(img/kadaMens.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  height: 15vh;
+  width: 100%;
+  margin: 0;
+  display: flex;
+}
+.logo {
+  width: 50vw;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  align-items: flex-start;
+}
