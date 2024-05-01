@@ -10,12 +10,12 @@ body {
 .hlavicka {
   background-color: #5a5a5e;
   height: 20vh;
-  width: 100%;
+  width: 100vw;
   margin: 0;
   border-bottom: 1px solid #bcb276;
 }
 .logo {
-  width: 50vw;
+  width: 100vw;
   height: 20vh;
   margin: 0;
   padding: 0;
