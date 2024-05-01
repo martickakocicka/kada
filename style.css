@@ -9,18 +9,22 @@ body {
 
 .hlavicka {
   background-color: #5a5a5e;
+  background-image: url(img/knihy.png);
+  background-position: bottom right;
+  background-repeat: space;
+  background-size: 100%;
   height: 20vh;
   width: 100vw;
   margin: 0;
   border-bottom: 1px solid #bcb276;
 }
 .logo {
-  width: 100vw;
+  width: 45vw;
   height: 20vh;
   margin: 0;
   padding: 0;
   display: inline-block;
-  align-items: flex-start;
+  align-self: flex-start;
   flex-basis: content;
 }
 
