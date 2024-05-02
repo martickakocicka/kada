@@ -53,13 +53,14 @@ body {
 button {
   width: 38vw;
   height: 6vh;
-  background-color: #4d5560;
+  padding-bottom: 11%;
+  background-color: #2b2b29;
   font-family: Ysabeau Office;
   font-size: 1.5em;
   border: #bcb276;
   border-radius: 2px;
   align-self: flex-end;
-  margin-top: 5.5vh;
+  margin-top: 3vh;
   color: #e0e0e0;
   margin-right: 0;
   box-shadow: 1px 1px 2px 1px #5a5a5e;
