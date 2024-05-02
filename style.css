@@ -34,6 +34,14 @@ body {
   display: inline-block;
   align-self: flex-start;
 }
+.cara {
+  width: 35vw;
+  height: 1px;
+  background-color: #bcb276;
+  position: relative;
+  bottom: 48%;
+  left: 18%;
+}
 .socha {
   width: 40%;
   margin: 0;
