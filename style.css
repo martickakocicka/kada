@@ -9,7 +9,7 @@ body {
 }
 
 .hlavicka {
-  background-color: #5a5a5e;
+  background-color: #2b2b29;
   background-image: url(img/knihy.png);
   background-position: bottom right;
   background-repeat: no-repeat;
@@ -20,16 +20,16 @@ body {
   border-bottom: 3px solid #bcb276;
 }
 .obal {
-  background-color: #f5f5f5;
+  background-color: #2f2e2b;
   width: 56vw;
   height: 40vh;
-  box-shadow: 0.5px 0.5px 5px 0.5px #f5f5f5;
+  box-shadow: 0.5px 0.5px 5px 0.5px #5a5a5e;
   border-right: 1px solid #bcb276;
 }
 .logo {
   width: 50vw;
-  height: 10vh;
-  margin-top: 12%;
+  height: 30vh;
+  margin-top: 8%;
   padding: 10px;
   display: inline-block;
   align-self: flex-start;
@@ -45,7 +45,7 @@ body {
 button {
   width: 38vw;
   height: 6vh;
-  background-color: #6c7789;
+  background-color: #4d5560;
   font-family: Ysabeau Office;
   font-size: 1.5em;
   border: #bcb276;
