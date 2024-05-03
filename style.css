@@ -26,7 +26,7 @@ body {
 .navigaceZnak {
   width: 40px;
   height: 40px;
-  padding-top: 4px;
+  padding-top: 8px;
   margin-right: 8px;
   /*border: 2px solid white;*/
   display: flex;
@@ -75,7 +75,6 @@ body {
   right: -14%;
 }
 
-
 button {
   width: 38vw;
   height: auto;
@@ -83,13 +82,11 @@ button {
   font-family: Ysabeau Office;
   font-size: 1.5em;
   border: #bcb276;
-  border-radius: 2px;
-  
+  border-radius: 2px;  
   color: #e0e0e0;
   box-shadow: 1px 1px 2px 1px #5a5a5e;
   align-self: flex-end;
-  margin-top: 4.5vh;
- 
+  margin-top: 4.5vh; 
 }
 .odstavec {
   background-color: #f5f5f5;
